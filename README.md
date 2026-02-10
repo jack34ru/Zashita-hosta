@@ -31,7 +31,7 @@
 
 Скриншот 1 к заданию 2  
 ![Screen 1](https://github.com/jack34ru/Zashita-hosta/blob/main/screenshots/Screenshot_176.png)  
-Скриншот 2 к заданию 2 
+Скриншот 2 к заданию 2  
 ![Screen 2](https://github.com/jack34ru/Zashita-hosta/blob/main/screenshots/Screenshot_177.png)  
 Скриншот 3 к заданию 2  
 ![Screen 4](https://github.com/jack34ru/Zashita-hosta/blob/main/screenshots/Screenshot_178.png)  
